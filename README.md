@@ -10,5 +10,6 @@
 **Parameter**: `itemId` - Einzigartige Id des Elements
 
 `DELETE´ Objekt löschen. Wat weiß ich...
+Den Rest krieg ich auch noch raus...
 
  
